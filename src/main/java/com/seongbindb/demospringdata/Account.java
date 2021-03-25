@@ -23,6 +23,19 @@ public class Account {
     @OneToMany (mappedBy = "owner")
     private Set<Study> studies = new HashSet<>();
 
+
+
+
+
+
+
+
+
+
+
+
+
+
     public Set<Study> getStudies() {
         return studies;
     }

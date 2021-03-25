@@ -1,5 +1,5 @@
-# SpringData JPA
-- JPA (Hibernate) 및 Spring JPA를 공부하는 공간입니다.
+# JPA & Hibernate
+- JPA 및 Hibernate를 학습하는 공간입니다. 
 
 ## 2021.03.24
 
